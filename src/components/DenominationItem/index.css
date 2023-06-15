@@ -1,0 +1,11 @@
+.item-container {
+  background-color: #585076;
+  text-align: center;
+  padding: 5px;
+  border: 1px solid white;
+}
+.amount {
+  color: white;
+  font-size: 14px;
+  font-family: 'Roboto';
+}

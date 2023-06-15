@@ -1,0 +1,60 @@
+.bg-container {
+  background-color: #150b3e;
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+}
+.profile-container {
+  display: flex;
+  flex-direction: row;
+}
+.icon {
+  border-radius: 15px;
+  background-color: grey;
+  color: white;
+  padding: 5px;
+  margin: 10px;
+}
+.name {
+  color: #382f5a;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.balance {
+  color: white;
+  font-size: 18px;
+}
+.your-bal {
+  color: white;
+  font-size: 14px;
+}
+.amount-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+}
+.amount {
+  color: white;
+}
+.withdraw-container {
+  display: flex;
+  flex-direction: column;
+}
+.withdraw {
+  color: white;
+  font-size: 22px;
+  margin: 5px;
+}
+.choose-sum {
+  font-size: ;
+  color: #382f5a;
+  margin: 5px;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 5px;
+}
